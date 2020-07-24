@@ -1,14 +1,22 @@
-### Hi there Melroy Here 👋
+# Hi there this is Melroy 😊
 
-<!--
-**melroy27/melroy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let me tell you something about me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **ZionProjects**
+- 🌱 I’m currently learning **Docker | AngularJS | Kubernetes | AWS | Android**
+- 😜 I’m looking for help with **How to be open about things**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melroyantonyrodrigues/) [Email](www.melroy27@hotmail.com)
 
-- 🔭 I’m currently working on #ZionProjects
-- 🌱 I’m currently learning AngularJS, Docker,Kubernetes
-- 🤔 I’m looking for help with To be 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technologies i have fiddled with 😓
+
+- [x] Android (Java)
+- [x] Docker
+- [x] Kubernetes
+- [x] Jenkins
+- [x] Angular JS
+- [x] Google Firebase
+- [x] Mongo DB
+
+## My Moto
+
+ >Keep smiling and try till you succeed
