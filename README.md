@@ -7,7 +7,7 @@
 - 😜 I’m looking for help with **How to be open about things**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melroyantonyrodrigues/) 📧`www.melroy27@hotmail.com`
 
-## Technologies i have fiddled with 😓
+## Technologies i have fiddled with 😊
 
 - [x] Android (Java)
 - [x] Docker
