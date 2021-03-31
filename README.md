@@ -2,10 +2,10 @@
 
 ## Let me tell you something about me
 
-- 🌱 I’m currently learning **Docker | Angular | Kubernetes | Ionic**
+- 🌱 I’m currently learning **Angular | Node.JS | Ionic**
 - 😜 I’m looking for help with **How to be open about things**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melroyantonyrodrigues/) 📧`www.melroy27@hotmail.com`
--                   : [GitHub] Well you are already here :P
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melroyantonyrodrigues/) or [Mail](mailto:melroy27@hotmail.com)📧
+- 📫 GitHub Repo : [GitHub Repo](https://github.com/melroy27?tab=repositories)
 ## Technologies i have fiddled with 😊
 
 - [x] Android (Java)
@@ -16,6 +16,7 @@
 - [x] Google Firebase
 - [x] Mongo DB
 - [x] Hyperledger Fabric
+- [x] Ionic 
 
 ## My Moto
 
