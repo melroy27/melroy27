@@ -2,10 +2,10 @@
 
 ## Let me tell you something about me
 
-- 🌱 I’m currently learning **Angular | Node.JS | Ionic**
+- 🌱 I’m currently learning **Angular | React **
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melroyantonyrodrigues/) or [Mail](mailto:melroy27@hotmail.com)📧
 - 📫 GitHub Repo : [GitHub Repo](https://github.com/melroy27?tab=repositories) well you are already here!!
-- 💻 Currenly working as an web developer with technologies such as Angular, Ionic, Cordova, Node.js, MongoDb, Restify
+- 💻 Currenly working as an Project Coordinator
 
 ## Technologies i have fiddled with 😊
 
